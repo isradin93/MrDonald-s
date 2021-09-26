@@ -26,6 +26,11 @@ const GlobalStyle = createGlobalStyle`
         color: inherit;
     }
 
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
     ul {
         list-style: none;
         margin: 0;
